@@ -1,5 +1,4 @@
-### Hi, my nane is Marina Radusheva and I am studying Software Engineering with C# at Sofware University 🎓
-
+#### Hi, my nane is Marina Radusheva and I am studying Software Engineering with C# at Sofware University. 🎓
 
 - 💪 I’m currently working on building my portfolio.
 - 🌱 I’m currently learning Angular.
