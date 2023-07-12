@@ -1,8 +1,10 @@
-#### Hi, my name is Marina Radusheva and I am studying Software Engineering with C# at Sofware University. 🎓
+#### Hi, my name is Marina Radusheva and I am a junior Software developer.
 
-- 💪 I’m currently working on building my portfolio.
-- 🌱 I’m currently learning Angular.
-- 🙌 My goal for 2022 is to get my first job as a web developer.
+Main technologies I work with:
+- .NET
+- SAP openui5
+- JavaScript
+- Blazor
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaRadusheva&layout=compact)
