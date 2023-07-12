@@ -1,10 +1,11 @@
-#### Hi, my name is Marina Radusheva and I am a junior Software developer.
+#### Hi, my name is Marina Radusheva and I am a junior software developer.
 
 Main technologies I work with:
 - .NET
 - SAP openui5
 - JavaScript
 - Blazor
+- SQL
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaRadusheva&layout=compact)
