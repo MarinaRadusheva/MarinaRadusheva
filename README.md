@@ -1,6 +1,6 @@
 #### Hi, my name is Marina Radusheva and I am a junior software developer.
 
-Main technologies I work with:
+Technologies I mainly work with:
 - .NET
 - SAP openui5
 - JavaScript
